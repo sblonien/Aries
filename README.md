@@ -2,6 +2,8 @@
 
 ##### This game was made at [Chillenium 2017](https://itch.io/jam/chillennium17) by [Aniket Raj](http://www.aniketraj.photography/about.html), [Sean Blonien](https://github.com/sblonien), [Travis Lawrence](https://www.facebook.com/travis.lawrence.7399) using [Unreal Engine 4.17.2](https://www.unrealengine.com/en-US/what-is-unreal-engine-4)
 
+[Download](https://github.com/sblonien/Aries/releases/latest)
+
 
 Humanity has decided to colonize a new planet. The planet, however, is not pleased with this, and has manifested itself in the form of a god, Aries, to destroy the human civilization.
 
